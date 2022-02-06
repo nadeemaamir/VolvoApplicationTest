@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/nadeemaamir/VolvoApplicationTest.git/static/css/main.56e0ebaf.css",
+    "main.js": "/nadeemaamir/VolvoApplicationTest.git/static/js/main.d45d7155.js",
+    "static/js/787.5258d17a.chunk.js": "/nadeemaamir/VolvoApplicationTest.git/static/js/787.5258d17a.chunk.js",
+    "index.html": "/nadeemaamir/VolvoApplicationTest.git/index.html",
+    "static/media/chevron-circled.svg": "/nadeemaamir/VolvoApplicationTest.git/static/media/chevron-circled.3b61d02a65a601c795b2.svg",
+    "static/media/chevron-small.svg": "/nadeemaamir/VolvoApplicationTest.git/static/media/chevron-small.292394dd1fbf53f54187.svg",
+    "main.56e0ebaf.css.map": "/nadeemaamir/VolvoApplicationTest.git/static/css/main.56e0ebaf.css.map",
+    "main.d45d7155.js.map": "/nadeemaamir/VolvoApplicationTest.git/static/js/main.d45d7155.js.map",
+    "787.5258d17a.chunk.js.map": "/nadeemaamir/VolvoApplicationTest.git/static/js/787.5258d17a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e0ebaf.css",
+    "static/js/main.d45d7155.js"
+  ]
+}
